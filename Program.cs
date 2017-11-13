@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Hej med dig!
+
 // TODO Make a SNEW Map with diffirent enemies in each (Stronger enemies)
 // TODO Make a better Win/Dead screen
 // TODO Replace while(true) loop with Try_Catch
